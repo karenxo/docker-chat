@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+inform &
+inform_pid = $!
+
+weechat-curses
